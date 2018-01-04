@@ -28,7 +28,7 @@
 			</tr>
 			<tr>
 				<th>점심</th>
-				<td>회사식당 </td>
+				<td>회사식당</td>
 			</tr>
 		</table>
 	</div>
